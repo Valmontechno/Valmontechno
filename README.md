@@ -5,7 +5,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,arduino">&nbsp;&nbsp;<img src="scratch.svg" height="48">
 </p>
-<p align="center">
-  It's dangerous to go alone! Read this.<br>
-  https://scratch.mit.edu/users/valmontechno
-</p>
+<p align="center">https://scratch.mit.edu/users/valmontechno</p>
