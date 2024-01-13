@@ -5,4 +5,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,arduino,cs,unity,unreal">&nbsp;&nbsp;<img src="scratch.svg" height="48">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmontechno&layout=compact">
+</p>
 <p align="center">https://scratch.mit.edu/users/valmontechno</p>
