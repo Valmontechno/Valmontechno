@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/108832011?v=4">
+  <img width="100"src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/108832011?v=4&mask=circle">
 </p>
 <h2 align="center">Valmontechno</h2>
 <p align="center">
